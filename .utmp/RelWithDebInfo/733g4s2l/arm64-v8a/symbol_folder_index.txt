@@ -1,0 +1,1 @@
+C:\Users\Flavio\Desktop\Uni Isi\6 Semestre\Sistemas III\FAB\MonkeyCartel\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\cxx\RelWithDebInfo\733g4s2l\obj\arm64-v8a

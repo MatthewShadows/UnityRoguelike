@@ -1,0 +1,5 @@
+C:/Users/Flavio/Desktop/Uni Isi/6 Semestre/Sistemas III/FAB/MonkeyCartel/.utmp/RelWithDebInfo/733g4s2l/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/Flavio/Desktop/Uni Isi/6 Semestre/Sistemas III/FAB/MonkeyCartel/.utmp/RelWithDebInfo/733g4s2l/arm64-v8a/CMakeFiles/rebuild_cache.dir
+C:/Users/Flavio/Desktop/Uni Isi/6 Semestre/Sistemas III/FAB/MonkeyCartel/.utmp/RelWithDebInfo/733g4s2l/arm64-v8a/GameActivity/CMakeFiles/game.dir
+C:/Users/Flavio/Desktop/Uni Isi/6 Semestre/Sistemas III/FAB/MonkeyCartel/.utmp/RelWithDebInfo/733g4s2l/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+C:/Users/Flavio/Desktop/Uni Isi/6 Semestre/Sistemas III/FAB/MonkeyCartel/.utmp/RelWithDebInfo/733g4s2l/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir

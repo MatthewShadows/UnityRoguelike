@@ -1,0 +1,2 @@
+C:\Users\Flavio\Desktop\Uni Isi\6 Semestre\Sistemas III\FAB\MonkeyCartel\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+C:\Users\Flavio\Desktop\Uni Isi\6 Semestre\Sistemas III\FAB\MonkeyCartel\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt
